@@ -8,8 +8,9 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/but_str1"
-        android:textSize="20sp"
+        android:textSize="30sp"
         android:layout_margin="20dp"
+        android:background="#ffc0c0"
         />
 
     <Button
